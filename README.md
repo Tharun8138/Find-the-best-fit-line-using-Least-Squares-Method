@@ -53,8 +53,11 @@ print(m*3+b)
 ```
 
 ## Output:
-![Screenshot 2025-02-26 161810](https://github.com/user-attachments/assets/5239e8be-9ed6-4b43-9af3-3e65d2b3702d)
-![Screenshot 2025-02-26 161831](https://github.com/user-attachments/assets/237f1e64-1845-41d3-97e2-53ceac7c3a2b)
+![Screenshot 2025-02-26 162950](https://github.com/user-attachments/assets/5c11819e-0d15-4bff-b830-d89e65572740)
+
+![Screenshot 2025-02-26 162959](https://github.com/user-attachments/assets/5218e48c-8d1b-4aa3-b10c-e841846ce754)
+![Screenshot 2025-02-26 162855](https://github.com/user-attachments/assets/59df8818-14ba-4366-977c-6575c2e7fc25)
+
 
 
 ## Result:
